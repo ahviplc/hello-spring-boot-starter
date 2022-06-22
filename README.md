@@ -21,6 +21,9 @@ https://blog.csdn.net/u011863024/article/details/113667946
 
 vulcan: vulcan:一个 Spring Boot 多模块项目
 https://gitee.com/ahviplc/vulcan
+
+MySpringBootTemplate: 一个SpringBoot开发模板项目,内置了优雅的处理全局异常 - 这是单项目版本
+https://gitee.com/ahviplc/MySpringBootTemplate
 ```
 
 # 如何使用
