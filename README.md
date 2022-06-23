@@ -6,8 +6,12 @@
 
 # 私有github maven仓库
 
+`可在这里找到公共使用我的方法说明`
+
 GitHub - ahviplc/maven-repository: LC的私人maven仓库.
 > https://github.com/ahviplc/maven-repository
+
+> https://github.com/ahviplc/maven-repository#引入hello-spring-boot-starter包
 
 # 一些链接
 
@@ -29,6 +33,12 @@ https://gitee.com/ahviplc/vulcan
 
 MySpringBootTemplate: 一个SpringBoot开发模板项目,内置了优雅的处理全局异常 - 这是单项目版本
 https://gitee.com/ahviplc/MySpringBootTemplate
+
+6-里面有新增json-可以在配置自有属性的时候有提示- SpringBoot自定义Starter_JAVA葵花宝典的博客-CSDN博客
+https://blog.csdn.net/b644ROfP20z37485O35M/article/details/89037542
+
+Let's make SpringBoot app start faster - DEV Community
+https://dev.to/bufferings/lets-make-springboot-app-start-faster-k9m
 ```
 
 # 如何使用

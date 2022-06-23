@@ -1,0 +1,24 @@
+Manifest-Version: 1.0.0-SNAPSHOT
+Bundle-Description: ''
+Automatic-Module-Name: ''
+Bundle-License: ''
+Bundle-SymbolicName: ''
+Implementation-Version: ''
+Built-By: LC
+Bnd-LastModified: ''
+Bundle-ManifestVersion: ''
+Specification-Vendor: ''
+Implementation-Vendor-Id: ''
+Bundle-DocURL: ''
+Bundle-Vendor: ''
+Require-Capability: ''
+Implementation-Vendor: ''
+Export-Package: ''
+Bundle-Name: ''
+Bundle-Version: ''
+Extension-Name: ''
+Created-By: LC
+Build-Jdk: 1.8.0_211
+Specification-Version: ''
+Implementation-URL: https://gitee.com/ahviplc/hello-spring-boot-starter
+

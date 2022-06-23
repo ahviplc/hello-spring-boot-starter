@@ -1,0 +1,53 @@
+{
+  "hints": [
+    {
+      "name": "lc.hello.prefix",
+      "values": [
+        {
+          "value": "你好",
+          "description": "中文方式打招呼"
+        },
+        {
+          "value": "Hi",
+          "description": "英文方式打招呼"
+        }
+      ]
+    },
+    {
+      "name": "lc.hello.suffix",
+      "values": [
+        {
+          "value": "永不言弃",
+          "description": "中文方式打招呼"
+        },
+        {
+          "value": "Never Give Up",
+          "description": "英文方式打招呼"
+        }
+      ]
+    }
+  ],
+  "groups": [
+    {
+      "sourceType": "com.lc.hello.beans.HelloProperties",
+      "name": "lc.hello",
+      "type": "com.lc.hello.beans.HelloProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.lc.hello.beans.HelloProperties",
+      "name": "lc.hello.prefix",
+      "type": "java.lang.String",
+      "description": "打招呼的内容前缀",
+      "defaultValue": "你好"
+    },
+    {
+      "sourceType": "com.lc.hello.beans.HelloProperties",
+      "name": "lc.hello.suffix",
+      "type": "java.lang.String",
+      "description": "打招呼的内容后缀",
+      "defaultValue": "永不言弃"
+    }
+  ]
+}
