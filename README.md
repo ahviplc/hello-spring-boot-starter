@@ -4,6 +4,11 @@
 
 > https://gitee.com/ahviplc/hello-spring-boot-starter
 
+# 私有github maven仓库
+
+GitHub - ahviplc/maven-repository: LC的私人maven仓库.
+> https://github.com/ahviplc/maven-repository
+
 # 一些链接
 
 ```markdown
