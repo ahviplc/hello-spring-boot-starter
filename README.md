@@ -2,6 +2,8 @@
 
 > 一个Spring Boot的自定义starter项目
 
+> https://github.com/ahviplc/hello-spring-boot-starter.git
+
 > https://gitee.com/ahviplc/hello-spring-boot-starter
 
 # 私有github maven仓库
